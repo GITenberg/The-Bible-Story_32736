@@ -1,0 +1,33 @@
+_repo: The-Bible-Story_32736
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Hall, Newton Marshall
+    alias: Hall, N. M. (Newton Marshall)
+    birthdate: 1865
+    deathdate: 1926
+    gutenberg_agent_id: '36011'
+    url: http://www.gutenberg.org/2009/agents/36011
+  - agent_name: Wood, Irving Francis
+    birthdate: 1861
+    deathdate: 1934
+    gutenberg_agent_id: '36012'
+    url: http://www.gutenberg.org/2009/agents/36012
+    wikipedia: http://en.wikipedia.org/wiki/Irving_Francis_Wood
+description: ''
+gutenberg_issued: '2010-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32736'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible stories, English'
+title: The Bible Story
+url: http://www.gutenberg.org/ebooks/32736
