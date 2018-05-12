@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36012
     wikipedia: http://en.wikipedia.org/wiki/Irving_Francis_Wood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32736#The-Bible-Story
 gutenberg_issued: '2010-06-07'
 gutenberg_type: Text
 identifiers:
